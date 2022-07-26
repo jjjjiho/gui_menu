@@ -1,7 +1,5 @@
 from tkinter import *
 import random
-import os
-print(os.path.dirname(os.path.realpath(__file__)))
 
 #  예제 1) tkinter 파이썬 GUI 레이블(label)
 # tkinter를 사용하여 텍스트를 나타내보자
